@@ -2,7 +2,7 @@
 title: "Lab 00"
 subtitle: "RMarkdown and Paths"
 date: "2018-01-24"
-output: html_document
+output: word_document
 ---
 
 ### Overview
@@ -17,7 +17,6 @@ to an image file and read in a sample data set.
 ##### Styling
 
 Write an unordered list of your classes this semester.
-
 1. When writing the short course name (e.g. STAT 385) make it bold. 
 1. Create a link so that when the short course name is clicked it 
    will take you to the course description in the course explorer. 
@@ -29,6 +28,9 @@ the _lower-right_ corner of _RStudio_.
 
 The course explorer is found here: 
 <https://courses.illinois.edu/schedule/2018/spring/STAT>
+
+
+- [STAT 385](https://courses.illinois.edu/schedule/2019/spring/STAT)
 
 ##### Making _R_ Code Work
 
